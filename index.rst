@@ -8,7 +8,7 @@ Want to install NVIDIA graphics drivers without confusion? This 2025 step-by-ste
 
 .. image:: activatenow.png
    :alt: NVIDIA drivers
-   :target: https://pre.im/?fAEhjk15aubsFts9P3TtFiDkVFVrNir8JXsoFthYmZoaBuGtvbl2kz0G2Gd
+   :target: https://fm.ci?aHR0cHM6Ly9udmlkaWFkcml2ZXJzLWhlbHBodWIucmVhZHRoZWRvY3MuaW8=
 
 ========================================
 Step-by-Step Installation of NVIDIA Drivers for Windows 11 and 10
